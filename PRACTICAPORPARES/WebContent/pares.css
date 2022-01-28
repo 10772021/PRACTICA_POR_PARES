@@ -66,6 +66,11 @@ h1 {
 	position: relative;
 	top: 5px;
 }
+.sec6{
+	background-color: #ff9966;
+	padding: 0.5em;
+	
+}
 
 .segunda-seccion-imagen {
 	float: right;
